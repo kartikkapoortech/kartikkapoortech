@@ -1,58 +1,55 @@
 # 👋 Hi, I'm Kartik Kapoor  
 
-<img src="https://avatars.githubusercontent.com/u/000000?v=4" width="150" align="right" style="border-radius:50%" />
-
-💻 **Full-Stack Developer** | 🌐 **WordPress Expert** | 📊 **AI/ML Explorer**  
-
----
-
-### 🚀 About Me
-- 🏗️ Built **20+ custom WordPress websites** with advanced functionalities.  
-- 💻 Hands-on experience in **PHP, JavaScript, MySQL, HTML, CSS**.  
-- 🔬 Currently learning & applying **AI, Machine Learning, and Cloud Technologies**.  
-- 🎯 Experienced in developing **real-world projects in the Education Sector**.  
-- 🌱 Always exploring new technologies to solve real problems.  
+💻 **Full-Stack Developer | Problem Solver | Tech Enthusiast**  
+🌍 Passionate about building impactful solutions that solve **real-world problems** with clean code, automation, and user-focused design.  
 
 ---
 
-### 🛠️ Tech Stack  
-
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="55" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="60" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" alt="WordPress" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="Google Cloud" width="40" height="40"/>
-</p>
-
----
-
-### 📂 Featured Work  
-🔹 **WordPress Projects** – 20+ sites with custom themes, plugins & lead-generation features.  
-🔹 **Education Tech Solutions** – Websites & tools to support consultancies and institutions.  
-🔹 **AI/ML Experiments** – Small projects exploring predictive models & automation.  
+## 🚀 About Me  
+- 🏗️ Built **20+ websites** using both **custom programming** and **CMS (WordPress)**.  
+- 🎯 Expert in creating **custom solutions** that match unique client requirements.  
+- 🛠️ Solved recurring challenges by developing **dedicated systems & portals**, including:  
+  - 🧑‍🎓 **Unified Institute Management System** with portals for Students, Faculty, Employees & Admins.  
+  - 📚 Integrated **LMS** for online learning.  
+  - 💳 Razorpay-powered **Fee Payment Module**.  
+  - 🧾 Smart **Invoicing & Employee Management System**.  
+  - 📊 Attendance & Reporting Automation.  
+- 🌟 Strong foundation in **Full-Stack Development** with a love for problem-solving.  
+- ☁️ Currently learning **Cloud & AI/ML** to level up my skills.  
 
 ---
 
-### 📊 GitHub Stats  
+## 🛠️ Tech Stack  
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikkapoortech&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkapoortech&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,wordpress,react,nodejs,git,github" />  
+</p>  
 
 ---
 
-### 🌐 Connect with Me  
-📧 **Email**: kartikkapoortech@gmail.com  
-💼 **LinkedIn**: [linkedin.com/in/kartikkapoor](#)  
-🌍 **Portfolio**: [Coming Soon]  
+## 📈 Highlights  
+✅ Delivered **20+ websites** optimized for speed, SEO, and lead generation.  
+✅ Helped businesses **increase revenue** with tailored web solutions.  
+✅ Experience in **automation, integrations, and scalable architecture**.  
+✅ Known for being an **enthusiastic learner & strong problem solver**.  
 
 ---
-⭐️ *Always building, always learning.*  
+
+## 📊 GitHub Stats  
+
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="150" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="150" />  
+</p>  
+
+---
+
+## 📬 Let’s Connect  
+
+📧 **kartikkapoortech@gmail.com**  
+💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+🌐 [Portfolio](https://your-portfolio-link.com)  
+
+---
+
+✨ *Always excited to learn, build, and contribute to impactful projects!*  
