@@ -48,8 +48,7 @@
 ## 📬 Let’s Connect  
 
 📧 **kartikkapoortech@gmail.com**  
-💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-🌐 [Portfolio](https://your-portfolio-link.com)  
+ 
 
 ---
 
