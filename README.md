@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-- 🏗️ Built **20+ websites** using both **custom programming** and **CMS (WordPress)**.  
+- 🏗️ Built **15+ websites** using both **custom programming** and **CMS (WordPress)**.  
 - 🎯 Expert in creating **custom solutions** that match unique client requirements.  
 - 🛠️ Solved recurring challenges by developing **dedicated systems & portals**, including:  
   - 🧑‍🎓 **Unified Institute Management System** with portals for Students, Faculty, Employees & Admins.  
