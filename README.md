@@ -29,7 +29,7 @@
 
 ## 📈 Highlights  
 ✅ Delivered **15+ websites** optimized for speed, SEO, and lead generation.  
-✅ Helped businesses **increase revenue** with tailored web solutions.  
+✅ Helped businesses **increase revenue** with tailored web solution.  
 ✅ Experience in **automation, integrations, and scalable architecture**.  
 ✅ Known for being an **enthusiastic learner & strong problem solver**.  
 
