@@ -15,7 +15,7 @@
   - 🧾 Smart **Invoicing & Employee Management System**.  
   - 📊 Attendance & Reporting Automation.  
 - 🌟 Strong foundation in **Full-Stack Development** with a love for problem-solving.  
-- ☁️ Currently learning **Cloud & AI/ML** to level up my skill.  
+- ☁️ Currently learning **Cloud & AI/ML** to level up my skills.  
 
 ---
 
